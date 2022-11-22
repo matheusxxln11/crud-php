@@ -1,5 +1,5 @@
 # crud-php
-
+Padrão MVC.
 Projeto feito com Php, mysql, Bootstrap
 
 Banco de dados: `cadastro` :
